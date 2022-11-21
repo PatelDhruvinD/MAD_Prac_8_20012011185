@@ -1,4 +1,4 @@
-package com.example.frame_by_frame_animation_mad_prac_8_20012011169
+package com.example.frame_by_frame_animation_mad_prac_8_20012011185
 
 import android.graphics.drawable.AnimationDrawable
 import androidx.appcompat.app.AppCompatActivity
